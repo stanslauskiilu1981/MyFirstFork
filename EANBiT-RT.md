@@ -1,7 +1,7 @@
 # Add your name here
 
-Name: 
+Name: Stanslaus Musyoki
 
-Instituition: 
+Instituition: Kisii University
 
-Tagline: 
+Tagline: Immunology/Bioinformatics
